@@ -19,7 +19,7 @@ export const experience = {
   bullets: [
     "Contribute to Boldcreate, an AI developer platform with a Tauri desktop app, a CLI, and a cloud agent.",
     "Core developer of Syncfusion Code Studio, a customized VS Code-based development environment.",
-    "Built four Model Context Protocol (MCP) servers that connect AI agents to external developer tools and services.",
+    "Built Multiple Model Context Protocol (MCP) servers that connect AI agents to external developer tools and services.",
     "Built internal developer tools and VS Code extensions with Node.js and React.",
     "Ran internal sessions on Spec-Driven Development, introducing OpenSpec and Spec Kit.",
   ],
