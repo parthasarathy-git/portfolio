@@ -100,7 +100,7 @@ export const projects: Project[] = [
 
 export const skills: [string, string][] = [
   ["languages", "TypeScript"],
-  ["frontend_desktop", "React.js, Tauri"],
+  ["frontend and desktop", "React.js, Tauri"],
   ["backend", "Node.js"],
   ["ai_agents", "Pi Agent SDK, custom agents, agent orchestration, agent workflows, MCP, ACP"],
   ["dev_tools", "VS Code extension development, CLI development, Git, Linux"],
